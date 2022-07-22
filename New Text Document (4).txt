@@ -1,0 +1,87 @@
+346916399611
+30admhonorsaws149
+Pa$$w0rd
+
+https://us-east-1.console.aws.amazon.com/iam/home#/policies/arn:aws:iam::346916399611:policy/Baseline1$serviceLevelSummary
+
+
+54.90.190.196
+
+ec2-54-90-190-196.compute-1.amazonaws.com
+
+sudo amazon-linux-extras install java-openjdk11
+
+
+<finalName>${project.artifactId}-${project.version}</finalName>
+
+
+How do I stop Tomcat from running on port 8080?
+On MS Windows, select Start > All Programs > Accessories > System Tools >Resource Monitor.
+Expand the Network Tab.
+Move to the section for Listening Ports.
+Look in the Port column and scroll to find entry for port 8080.
+Select the given process and delete/kill the process.
+
+in new cmd, netstat -aon |find /i "listening" |find "8080"
+taskkill /F /PID 189
+
+mvn -e clean package sprint-boot:repackage
+
+javatechieaws5
+
+https://2135811-bucket.s3.ap-south-1.amazonaws.com/spring-boot-aws-exe.war
+
+spring-boot-aws-exe.war
+
+2106560-img-06
+
+https://2106560-img-06.s3.amazonaws.com/spring-boot-aws-exe.war
+
+https://2135811-bucket.s3.ap-south-1.amazonaws.com/spring-boot-aws.war
+
+Aws root account
+
+aruntejateja1@gmail.com
+Arunkohli@22
+048552637913   (Account ID)
+cloudBeginners (Account Name)
+
+
+
+myawsbucketarun
+
+https://myawsbucketarun.s3.amazonaws.com/spring-boot-aws.war
+
+Javatechiedb
+Javatechiedbarun
+
+root
+Arunkohli
+javatechiearun
+
+javatechiedb.cymckwvuyb9a.us-east-1.rds.amazonaws.com
+javatechiedb.cymckwvuyb9a.us-east-1.rds.amazonaws.com
+
+@Size(max = 60)  to avoid error to declare String as an primary key in entity class
+
+Springbootaws-CarWash
+
+elasticbeanstalk-us-east-1-346916399611 
+
+
+12:15am
+Created security group named:
+awseb-e-sjzcegfchy-stack-AWSEBSecurityGroup-EOH5LCPOWUFX
+12:15am
+Created security group named:
+sg-02efbda0a21abb279
+12:14am
+Created target group named:
+arn:aws:elasticloadbalancing:us-east-1:346916399611:targetgroup/awseb-AWSEB-5OMENB38IMZ6/5735d9d52be89fb5
+12:14am
+Using elasticbeanstalk-us-east-1-346916399611
+
+
+insert into admin(first_name,last_name,contact_number,Email,Password)
+
+Give it like this to avoid registration error
